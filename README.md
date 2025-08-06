@@ -1,5 +1,5 @@
 
-# Deep Learning Aplicado à Física 🚀
+# Regressão Linear Aplicado à Física 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange)](https://www.tensorflow.org/)
