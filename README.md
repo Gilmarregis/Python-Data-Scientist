@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Deep Learning Aplicado à Física 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -36,4 +36,3 @@ Abra no Google Colab:
 https://colab.research.google.com/github/SEU_USUARIO/deep-learning-fisica/blob/main/Aula_Doutorado_IA_comentado.ipynb)
 =======
 # Python-Data-Scientist
->>>>>>> d4b84f45e5d0dfbea82518ecd6703f49091acc6b
