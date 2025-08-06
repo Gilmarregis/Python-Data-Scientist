@@ -42,11 +42,6 @@ pip install -r requirements.txt
 jupyter notebook Aula_Doutorado.ipynb
 ```
 
-## 💻 Executando Online
-Abra no Google Colab:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/SEU_USUARIO/python-para-cientistas/blob/main/Aula_Doutorado.ipynb)
-
 ## 📊 Funcionalidades
 - Ajuste por regressão linear usando **método de mínimos quadrados**
 - Visualização gráfica do ajuste e dados experimentais
